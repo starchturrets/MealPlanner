@@ -1,4 +1,5 @@
 'use strict';
+
 // Meal object - should this be const, var, or let?
 const MEAL = function(mealName, mealType) {
                 this.mealName = mealName,
