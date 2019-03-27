@@ -6,9 +6,20 @@ Currently lives [here](http://www.thebrianpye.com/MealPlanner/).
 
 ## The idea behind this app
 
-The original intent was for this to be a meal planner for me and my wife - automate the weekly dinner list. What at first seemed like a fitting way to practice and improve my javascript skills and solve a real-world problem has revealed itself to be a much larger under-taking than when initially conceived (I guess an unavoidable issue when you're doing something that requires quite a bit of steps that you've never done before).
+### Update ###
+3/27/19
 
-What the end-all goal is for this app is to give the user a list of meals (presumably for dinner) based off of the meals the user has. But what I didn't see was the wormhole of options this would require not to mention the unrealized idea of needing to save user profiles in order to save their lists. Oh boy oh boy.
+Switching direction in how I'm writing this app. I had the wrong approach and sorta lost sight of my initial intention with this:
+- Pull and populate UI lists with meal objects from meals.json
+- Generate a random list of meals
+
+Once this is done I'll continue on with the addition of more features/options.
+
+---
+
+The original intent was for this to be a meal planner for me and my wife - automate the weekly dinner list. What at first seemed like a fitting way to practice and improve my javascript skills and solve a real-world problem has revealed itself to be a much larger under-taking than when initially conceived (I guess an unavoidable issue when you're doing something that requires quite a bit of steps you've never done before).
+
+What the end-all goal is for this app is to give the user a list of meals (presumably for dinner) based off of the meals the user has stored and/or adds. But what I didn't see was the wormhole of options this would require not to mention the unrealized idea of needing to save user profiles in order to save their lists. Oh boy oh boy.
 
 In general the app _needs_ to do these things (and maybe more):
 - Create a basic profile that keeps a record of all of the user's meals
