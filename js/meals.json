@@ -1,6 +1,26 @@
 meals = [
   {
-    "name": "Beef Chili",
-    "has_meat": 5
+    "name": "BP's Chili",
+    "has_meat": true
+  },
+  {
+    "name": "Pizza & Pasty Dough",
+    "has_meat": false
+  },
+  {
+    "name": "BP's Basic Herb Bread",
+    "has_meat": false
+  },
+  {
+    "name": "Momma Ronnie's Schnitzel",
+    "has_meat": true
+  },
+  {
+    "name": "Braised Goose",
+    "has_meat": true
+  },
+  {
+    "name": "Braised Beef Ribs",
+    "has_meat": true
   }
 ];
