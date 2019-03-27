@@ -25,8 +25,8 @@ I'm sure there's more.
 
 ---
 
-### Update ###
-3/27/19
+### Update
+__3/27/19__
 
 Switching direction in how I'm writing this app. I had the wrong approach and sorta lost sight of my initial intention with this:
 - Pull and populate UI lists with meal objects from meals.json
@@ -38,6 +38,6 @@ Once this is done I'll continue on with the addition of more features/options.
 
 #### Local CLI commands:
 - `npm run build`: compiles and builds index.js into dist/main.js
-- `npm run watch`: watches for index.js changes and auto reloads main.js
-- `npm run scss`: compile sass to css
-- `npm run server`: launch local webpack server
+- `npm run watch`: watch for index.js changes + reloads main.js
+- `npm run styles`: compile sass to css
+- `npm run start-server`: launch local webpack server
